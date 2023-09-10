@@ -4,6 +4,14 @@
 
   (paper "A4")
 
+  (title_block
+    (title "ZX81/TS1000 32KB RAM Board")
+    (date "2023-09-10")
+    (rev "INITIAL")
+    (company "Brett Hallen")
+    (comment 1 "youtube.com/@brfff")
+  )
+
   (lib_symbols
     (symbol "AS6C62256-55PCN:AS6C62256-55PCN" (in_bom yes) (on_board yes)
       (property "Reference" "IC" (at 21.59 7.62 0)
@@ -762,7 +770,7 @@
     (pin "8" (uuid 6ebd63b0-f468-435c-8fa0-7e8ccdf34751))
     (pin "9" (uuid 4d60c0be-b937-40e1-9bb7-7ea171accbe2))
     (instances
-      (project "ZX81_32KB_SMD"
+      (project "ZX81_32KB"
         (path "/86e9cda0-559d-4875-9ba4-21806bf6f52d"
           (reference "J2") (unit 1)
         )
@@ -800,7 +808,7 @@
     (pin "8" (uuid 61ec71a0-106a-4bde-b52b-297b2e9169d3))
     (pin "9" (uuid 4182ac15-337a-4d4e-b8f7-17b8ffd59290))
     (instances
-      (project "ZX81_32KB_SMD"
+      (project "ZX81_32KB"
         (path "/86e9cda0-559d-4875-9ba4-21806bf6f52d"
           (reference "J1") (unit 1)
         )
@@ -867,7 +875,7 @@
     (pin "8" (uuid 58cab66d-7450-4f61-b972-29b651eedcad))
     (pin "9" (uuid b8bf0809-fb8b-4972-b7e0-0597c6426854))
     (instances
-      (project "ZX81_32KB_SMD"
+      (project "ZX81_32KB"
         (path "/86e9cda0-559d-4875-9ba4-21806bf6f52d"
           (reference "IC1") (unit 1)
         )
@@ -895,7 +903,7 @@
     (pin "3" (uuid bb8fa980-8a4e-4792-a4c6-39e53fc20eac))
     (pin "4" (uuid b6aa9679-fea0-4cea-b839-3fb8be289f53))
     (instances
-      (project "ZX81_32KB_SMD"
+      (project "ZX81_32KB"
         (path "/86e9cda0-559d-4875-9ba4-21806bf6f52d"
           (reference "J3") (unit 1)
         )
