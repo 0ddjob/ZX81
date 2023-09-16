@@ -8,3 +8,5 @@ Sent board prototype for fabrication<br>
 
 ![PCB](RAM_Upgrade/ZX81_32KB_RAM_Board_PCB.png)
 
+## ZX81 Centronics Interface
+Redrawn from the original c't magazine schematic.<br>
