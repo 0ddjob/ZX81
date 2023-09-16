@@ -1,4 +1,4 @@
-#ZX81 Centronics Interface
+# ZX81 Centronics Interface
 
 Recreating a DIY centronics interface from a German magazine.<br>
 
