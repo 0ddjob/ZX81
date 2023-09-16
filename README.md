@@ -10,3 +10,5 @@ Sent board prototype for fabrication<br>
 
 ## ZX81 Centronics Interface
 Redrawn from the original c't magazine schematic.<br>
+{Sat 16-Sept-2023}<br>
+Work in progress
