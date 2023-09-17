@@ -1572,7 +1572,7 @@
 
   (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm" (layer "F.Cu")
     (tstamp ba92f50d-8bcf-4389-9814-29d46e70bad1)
-    (at 145.477113 99.314 180)
+    (at 145.4771 99.314 180)
     (descr "CP, Radial series, Radial, pin pitch=2.50mm, , diameter=5mm, Electrolytic Capacitor")
     (tags "CP Radial series Radial pin pitch 2.50mm  diameter 5mm Electrolytic Capacitor")
     (property "Sheetfile" "ZX81_Centronics.kicad_sch")
@@ -2108,7 +2108,8 @@
       (net 78 "/~{REFSH}") (pinfunction "~{REFSH}") (pintype "output") (tstamp 46fe851c-2cae-4f99-a2c4-47798cf4267a))
     (pad "23B" connect rect (at 20.955 -7.747) (size 1.778 7.62) (layers "B.Cu" "B.Mask")
       (net 31 "/~{ROMCS}") (pinfunction "~{ROM_CS}") (pintype "output") (tstamp 61d9af83-8c1c-4ea6-9bd9-33faea34258d))
-    (pad "GND" connect rect (at -25.9715 -5.9055) (size 2.99974 4.0005) (layers "B.Cu" "B.Mask") (tstamp b95fcd47-f0a3-4736-acd6-6725a9bb5e6d))
+    (pad "GND" connect rect (at -25.9715 -5.9055) (size 2.99974 4.0005) (layers "B.Cu" "B.Mask")
+      (net 14 "GND") (tstamp b95fcd47-f0a3-4736-acd6-6725a9bb5e6d))
   )
 
   (gr_line (start 163.83 121.158) (end 152.908 121.158)
